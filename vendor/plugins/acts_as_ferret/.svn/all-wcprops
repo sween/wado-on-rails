@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/wado-on-rails/vendor/plugins/acts_as_ferret
+END
+rakefile
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/wado-on-rails/vendor/plugins/acts_as_ferret/rakefile
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/wado-on-rails/vendor/plugins/acts_as_ferret/LICENSE
+END
+init.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/wado-on-rails/vendor/plugins/acts_as_ferret/init.rb
+END
+install.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/wado-on-rails/vendor/plugins/acts_as_ferret/install.rb
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/wado-on-rails/vendor/plugins/acts_as_ferret/README
+END

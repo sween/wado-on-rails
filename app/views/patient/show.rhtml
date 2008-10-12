@@ -1,0 +1,47 @@
+<%= link_to '<< Back to Search', :action => 'index' %>
+<br/>
+<br/>
+
+<h1><b><%=h @patient["pat_name"]%></b></h1>
+<table>
+<tr><td>Patient Sex: </td><td><b><%=h @patient["pat_sex"]%></b></tr>
+<tr><td>Patient DOB: </td><td><b><%=h @patient["pat_birthdate"]%></b></tr>
+<tr><td>Created At: </td><td><b><%=h @patient["created_time"]%></b></tr>
+<tr><td>Available Images: </td><td></tr>
+</table>
+
+
+</br>
+</br>
+<table>
+
+<% for gar in @stuffs %>
+
+<font size="1"><a href="<%=h WADO_REQUEST_URL_IMAGE %>&studyUID=<%=h gar.study_iuid %>&seriesUID=<%=h gar.series_iuid %>&objectUID=<%=h gar.sop_iuid %>" rel="lightbox[pacs]" title="<%= @patient["pat_name"] %>"><%=h gar.series_iuid %></a> - <a href="<%=h WADO_REQUEST_URL_HEADER %>&studyUID=<%=h gar.study_iuid %>&seriesUID=<%=h gar.series_iuid %>&objectUID=<%=h gar.sop_iuid %>">HDR</a> - <a href="<%=h WADO_REQUEST_URL_IMAGE %>&studyUID=<%=h gar.study_iuid %>&seriesUID=<%=h gar.series_iuid %>&objectUID=<%=h gar.sop_iuid %>" rel="lightbox2" title="<%= @patient["pat_name"] %>"
+<img src="<%=h WADO_REQUEST_URL_IMAGE %>&studyUID=<%=h gar.study_iuid %>&seriesUID=<%=h gar.series_iuid %>&objectUID=<%=h gar.sop_iuid %>" alt="<%= @patient["pat_name"] %>" height="15" width="15"/></a></font>
+	
+
+
+<% end %>
+
+
+</br>
+</br>
+<ul id="gallery">
+  <li id="first"><a href=" ">HOVER 4 WADO</a>
+    <ul>
+<% for gar2 in @stuffs %>
+
+<li>
+    <a href="<%=h WADO_REQUEST_URL_IMAGE %>&studyUID=<%=h gar2.study_iuid %>&seriesUID=<%=h gar2.series_iuid %>&objectUID=<%=h gar2.sop_iuid %>" rel="lightbox2" title="<%= @patient["pat_name"] %>"
+    <img src="<%=h WADO_REQUEST_URL_IMAGE %>&studyUID=<%=h gar2.study_iuid %>&seriesUID=<%=h gar2.series_iuid %>&objectUID=<%=h gar2.sop_iuid %>" alt="<%= @patient["pat_name"] %>" height="50" width="50"/></a>
+</li>
+
+
+<% end %>
+
+</ul>
+</li>
+</ul>
+
+

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/wado-on-rails/db/migrate
+END
+001_create_studies.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/wado-on-rails/db/migrate/001_create_studies.rb
+END
+002_create_patients.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/wado-on-rails/db/migrate/002_create_patients.rb
+END

@@ -1,0 +1,37 @@
+<%= error_messages_for 'patient' %>
+
+<!--[form:patient]-->
+<p><label for="patient_pk">Pk</label><br/>
+<%= text_field 'patient', 'pk'  %></p>
+
+<p><label for="patient_merge_fk">Merge fk</label><br/>
+<%= text_field 'patient', 'merge_fk'  %></p>
+
+<p><label for="patient_pat_id_issuer">Pat id issuer</label><br/>
+<%= text_field 'patient', 'pat_id_issuer'  %></p>
+
+<p><label for="patient_pat_name">Pat name</label><br/>
+<%= text_field 'patient', 'pat_name'  %></p>
+
+<p><label for="patient_pat_i_name">Pat i name</label><br/>
+<%= text_field 'patient', 'pat_i_name'  %></p>
+
+<p><label for="patient_pat_p_name">Pat p name</label><br/>
+<%= text_field 'patient', 'pat_p_name'  %></p>
+
+<p><label for="patient_pat_birthdate">Pat birthdate</label><br/>
+<%= date_select 'patient', 'pat_birthdate'  %></p>
+
+<p><label for="patient_pat_sex">Pat sex</label><br/>
+<%= text_field 'patient', 'pat_sex'  %></p>
+
+<p><label for="patient_updated_time">Updated time</label><br/>
+<%= datetime_select 'patient', 'updated_time'  %></p>
+
+<p><label for="patient_created_time">Created time</label><br/>
+<%= datetime_select 'patient', 'created_time'  %></p>
+
+<p><label for="patient_pat_attrs">Pat attrs</label><br/>
+</p>
+<!--[eoform:patient]-->
+

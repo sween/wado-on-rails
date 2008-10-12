@@ -1,0 +1,52 @@
+8
+
+dir
+5
+http://wado-on-rails.googlecode.com/svn/trunk/wado-on-rails/app/models
+http://wado-on-rails.googlecode.com/svn
+
+
+
+2007-10-18T13:33:34.303959Z
+4
+ron.sweeney
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+0ab4a709-a63c-0410-918f-f1f7835f720d
+
+patient.rb
+file
+
+
+
+
+2008-09-12T13:24:55.000000Z
+96053a8ba5871c1fde9f46bb7520fc2d
+2007-10-18T13:33:34.303959Z
+4
+ron.sweeney
+
+study.rb
+file
+
+
+
+
+2008-09-12T13:24:55.000000Z
+a63a4e13edf66130a520c55885c28b0a
+2007-10-18T13:33:34.303959Z
+4
+ron.sweeney
+

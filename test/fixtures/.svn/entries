@@ -1,0 +1,52 @@
+8
+
+dir
+5
+http://wado-on-rails.googlecode.com/svn/trunk/wado-on-rails/test/fixtures
+http://wado-on-rails.googlecode.com/svn
+
+
+
+2007-10-18T13:25:45.632241Z
+3
+ron.sweeney
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+0ab4a709-a63c-0410-918f-f1f7835f720d
+
+patient.yml
+file
+
+
+
+
+2008-09-12T13:24:55.000000Z
+45edb77e2976023c0ccffa2ad7ceaa16
+2007-10-18T13:25:45.632241Z
+3
+ron.sweeney
+
+study.yml
+file
+
+
+
+
+2008-09-12T13:24:55.000000Z
+45edb77e2976023c0ccffa2ad7ceaa16
+2007-10-18T13:25:45.632241Z
+3
+ron.sweeney
+

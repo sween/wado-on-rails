@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/wado-on-rails/vendor/plugins/acts_as_ferret/config
+END
+ferret_server.yml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/wado-on-rails/vendor/plugins/acts_as_ferret/config/ferret_server.yml
+END

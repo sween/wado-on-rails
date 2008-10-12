@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/3/trunk/wado-on-rails/config
+END
+routes.rb
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/wado-on-rails/config/routes.rb
+END
+database.yml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/wado-on-rails/config/database.yml
+END
+boot.rb
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/wado-on-rails/config/boot.rb
+END
+environment.rb
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/wado-on-rails/config/environment.rb
+END
+ferret_server.yml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/wado-on-rails/config/ferret_server.yml
+END

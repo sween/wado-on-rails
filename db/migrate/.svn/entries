@@ -1,0 +1,52 @@
+8
+
+dir
+5
+http://wado-on-rails.googlecode.com/svn/trunk/wado-on-rails/db/migrate
+http://wado-on-rails.googlecode.com/svn
+
+
+
+2007-10-18T13:25:45.632241Z
+3
+ron.sweeney
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+0ab4a709-a63c-0410-918f-f1f7835f720d
+
+001_create_studies.rb
+file
+
+
+
+
+2008-09-12T13:25:06.000000Z
+0eb5aa8b23aac4e1eff22cd3898e070f
+2007-10-18T13:25:45.632241Z
+3
+ron.sweeney
+
+002_create_patients.rb
+file
+
+
+
+
+2008-09-12T13:25:06.000000Z
+9a3a1406b987ba03e592c9c09f52f454
+2007-10-18T13:25:45.632241Z
+3
+ron.sweeney
+

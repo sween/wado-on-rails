@@ -1,0 +1,11 @@
+<h1><i>Search</i> dcm4che2</h1>
+  <h2>Currently indexing <%= link_to @patientcount, :action => 'list' %> patients.</h2>
+
+
+
+<b>
+<form id="search" method="POST" action="search">
+  <input type="text" name="T1" size="20"><input type="submit" value="Search" name="B1">
+</form>
+</b>
+

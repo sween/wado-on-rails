@@ -1,0 +1,19 @@
+<table>
+ 
+  
+<% for patient in @patients %>
+  <tr>
+
+    <td><%= link_to patient["pat_name"], :action => 'show', :id => patient %></td>
+    
+   
+  </tr>
+<% end %>
+</table>
+
+<%= link_to 'Previous page', { :page => @patient_pages.current.previous } if @patient_pages.current.previous %>
+<%= link_to 'Next page', { :page => @patient_pages.current.next } if @patient_pages.current.next %> 
+
+<br />
+
+

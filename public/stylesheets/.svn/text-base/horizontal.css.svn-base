@@ -1,0 +1,52 @@
+/* 
+MONDAY BY NOON
+Suckerfish HoverLightbox Example - Vanilla Horizontal stylesheet
+Version: 1.0
+Last Modified 03/27/06
+J. Christopher - www.MondayByNoon.com
+
+CREDITS
+-------
+
+Suckerfish: Patrick Griffiths, Dan Webb
+    http://www.alistapart.com/articles/dropdowns/
+  Modification: http://www.htmldog.com/articles/suckerfish/dropdowns/
+
+Hoverbox: Nathan Smith.
+  Example: http://host.sonspring.com/hoverbox/
+  Tutorial: http://sonspring.com/journal/hoverbox-image-gallery/
+  Modification by: Craig Erskine
+    http://solardreamstudios.com/
+    http://solardreamstudios.com/_img/learn/css/pg/
+
+Lightbox: Lokesh Dhakar
+  http://www.huddletogether.com/projects/lightbox/
+
+*/
+
+/* * { margin:0; border:0; padding:0; } */
+body { font:10px Tahoma, sans-serif; color:#000; margin:20px; }
+ p { clear:both; } 
+
+/* GALLERY */
+ul#gallery { margin:0 0 0 20px; padding-top:20px; height:80px; list-style:none; position:relative; }
+ul#gallery li { border-right:1px solid #ccc; width:103px; display:block; float:left; }
+ul#gallery li#first { border-left:1px solid #ccc; }
+ul#gallery li:hover ul, ul#gallery li.sfhover ul { top:auto; left:0; }
+ul#gallery li a { display:block; width:100px; padding:15px 0 15px 3px; color:#000; text-decoration:none; }
+ul#gallery li a:hover { background-color:#fafafa; }
+ul#gallery li ul { padding:40px 20px 20px 20px; list-style:none; margin:0; width:350px; background-color:#fff; position:absolute; left:-999em; }
+ul#gallery li ul li { display:inline; text-align:left; clear:none; float:none; border:0; }
+ul#gallery li ul li a { margin:2px; border:1px solid #ccc; padding:4px; position:relative; float:left; display:block; width:100px; height:75px; }
+ul#gallery li ul li a:hover { z-index:2; }
+ul#gallery li ul li a img { position:absolute; width:100px; height:75px; }
+ul#gallery li ul li a:hover img, ul#gallery li a:active img, ul#gallery li a:focus img { width:400px; height:300px; left:-50px; top:-37px; z-index:1; border:1px solid #000; }
+
+/* LIGHTBOX CONTROL */
+#lightbox { background-color:#000;padding:20px 20px 5px 20px; }
+#lightboxDetails { padding-top:5px; }	
+#lightboxCaption { float:left; color:#fff; font-size:11px; }
+#keyboardMsg { float:right; }
+#keyboardMsg a { color:#fff; text-decoration:none; letter-spacing:2px; text-transform:uppercase; font-weight:bold; }
+#lightbox img { border:none; } 
+#overlay img { border:none; }

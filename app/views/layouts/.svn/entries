@@ -1,0 +1,53 @@
+8
+
+dir
+5
+http://wado-on-rails.googlecode.com/svn/trunk/wado-on-rails/app/views/layouts
+http://wado-on-rails.googlecode.com/svn
+
+
+
+2007-10-18T13:33:34.303959Z
+4
+ron.sweeney
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+0ab4a709-a63c-0410-918f-f1f7835f720d
+
+.patient.rhtml.swp
+file
+
+
+
+
+2008-09-12T13:24:57.000000Z
+998f1fbb8fc0ae624d2ce96077a2093b
+2007-10-18T13:25:45.632241Z
+3
+ron.sweeney
+has-props
+
+patient.rhtml
+file
+
+
+
+
+2008-09-12T13:24:57.000000Z
+3c293a631b5539f61289ce7af88c19ae
+2007-10-18T13:33:34.303959Z
+4
+ron.sweeney
+

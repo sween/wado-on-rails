@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/wado-on-rails/vendor/plugins/acts_as_ferret/lib
+END
+ferret_server.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/wado-on-rails/vendor/plugins/acts_as_ferret/lib/ferret_server.rb
+END
+ferret_cap_tasks.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/wado-on-rails/vendor/plugins/acts_as_ferret/lib/ferret_cap_tasks.rb
+END
+local_index.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/wado-on-rails/vendor/plugins/acts_as_ferret/lib/local_index.rb
+END
+multi_index.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/wado-on-rails/vendor/plugins/acts_as_ferret/lib/multi_index.rb
+END
+remote_index.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/wado-on-rails/vendor/plugins/acts_as_ferret/lib/remote_index.rb
+END
+acts_as_ferret.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/wado-on-rails/vendor/plugins/acts_as_ferret/lib/acts_as_ferret.rb
+END
+ferret_result.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/wado-on-rails/vendor/plugins/acts_as_ferret/lib/ferret_result.rb
+END
+instance_methods.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/wado-on-rails/vendor/plugins/acts_as_ferret/lib/instance_methods.rb
+END
+class_methods.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/wado-on-rails/vendor/plugins/acts_as_ferret/lib/class_methods.rb
+END
+act_methods.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/wado-on-rails/vendor/plugins/acts_as_ferret/lib/act_methods.rb
+END
+shared_index.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/wado-on-rails/vendor/plugins/acts_as_ferret/lib/shared_index.rb
+END
+more_like_this.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/wado-on-rails/vendor/plugins/acts_as_ferret/lib/more_like_this.rb
+END
+shared_index_class_methods.rb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3/trunk/wado-on-rails/vendor/plugins/acts_as_ferret/lib/shared_index_class_methods.rb
+END
+ferret_extensions.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/wado-on-rails/vendor/plugins/acts_as_ferret/lib/ferret_extensions.rb
+END
+index.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/wado-on-rails/vendor/plugins/acts_as_ferret/lib/index.rb
+END

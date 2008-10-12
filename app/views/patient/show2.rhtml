@@ -1,0 +1,15 @@
+	<ul id="gallery">
+	  <li id="first"><a href="<%=h WADO_REQUEST_URL_IMAGE %>&studyUID=<%=h gar.study_iuid %>&seriesUID=<%=h gar.series_iuid %>&objectUID=<%=h gar.sop_iuid %>">Available WADO Images</a>
+	    <ul>
+	<% for gar2 in @stuffs %>
+	
+<li>
+        <a href="<%=h WADO_REQUEST_URL_IMAGE %>&studyUID=<%=h gar.study_iuid %>&seriesUID=<%=h gar.series_iuid %>&objectUID=<%=h gar.sop_iuid %>" rel="lightbox2" title="<%= @patient["pat_name"] %>"><%=h gar.pk %></a>
+        <img src="<%=h WADO_REQUEST_URL_IMAGE %>&studyUID=<%=h gar.study_iuid %>&seriesUID=<%=h gar.series_iuid %>&objectUID=<%=h gar.sop_iuid %>" alt="<%= @patient["pat_name"] %>" "height="50" width="50"/></a>
+ </li>
+</ul>
+    
+<% end %>
+
+</li>
+</ul>

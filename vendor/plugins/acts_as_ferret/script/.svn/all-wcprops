@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/wado-on-rails/vendor/plugins/acts_as_ferret/script
+END
+ferret_start
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/wado-on-rails/vendor/plugins/acts_as_ferret/script/ferret_start
+END
+ferret_stop
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/wado-on-rails/vendor/plugins/acts_as_ferret/script/ferret_stop
+END
+ferret_server
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/wado-on-rails/vendor/plugins/acts_as_ferret/script/ferret_server
+END
