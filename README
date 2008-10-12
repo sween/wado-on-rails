@@ -1,0 +1,12 @@
+The WADO standard specifies a Web-based service for serving up DICOM objects, such as images and or reports. WADO is intended for distribution of results and images to healthcare professionals.
+
+DCM4CHE, a self titled Open Source Clinical Image and Object Management System, serves up images via WADO that exist in the DICOM archive.
+
+RAILS, is an extensible web framework built on the Ruby Programming Language.
+
+Bring these three together to create "wado-on-rails" and you have a simple search mechanism powered by Ferret, that accesses the dcm4che database, then lights up the related images for the patient with the ever popular lightbox2.
+
+wado-on-rails is an academic work that was originally intended to compete with XERO, but now has seen some time and experimentation for image review on silly gadgets like Apple's iPhone.
+
+ron.sweeney@devarboretum.com
+ron.sweeney@gmail.com
